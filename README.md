@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm MD SAQUIB MD AFZAL</h1>
 <h3 align="center">A passionate Full Stack Developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
-<img align="le" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="left" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/full-stack-developer-working-computer-it-professional-programmer-coding-website-creation-proccess-computer-technology_277904-5495.jpg?w=2000">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsaquibmdafzal&label=Profile%20views&color=0e75b6&style=flat" alt="mdsaquibmdafzal" /> </p>
 
