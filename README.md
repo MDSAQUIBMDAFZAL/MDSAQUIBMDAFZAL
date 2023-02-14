@@ -1,6 +1,16 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm MD SAQUIB MD AFZAL</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
+<h3 align="center">A passionate Full Stack Developer from India Being An Honest, Quick Learner Person And Very Passionate About My Work. Recently Graduated With A Bachelor Of Engineering (BE) With The Stream Of Computer Science Engineering (CSE) In 2022, Working As On The Full Stack Development (FSD) Projects. 
+
+Seeking a role that will allow me to continue learning and perfecting my skills in order to be a part of a progressive organization that will allow me to apply my knowledge and skills and be a part of an A-Team that will dynamically work towards the organization's growth. Passionate about developing websites and creating projects When exposed to unfamiliar technical patterns, systems, or languages, one quickly gains proficiency, finding satisfaction in writing clean code, testing code, and maintaining quality code.
+
+ ⇒ Additional Skills
+
+• Having A Strong Knowledge Of HTML, CSS, JavaScript, Bootstrap, jQuery, JSON, and XML in The Frontend
+• Professional Proficiency In Communication And Project Presentation.
+• Having Knowledge Of Java, Data structure And Algorithms, Spring Boot React JS, and Node.js In The Backend
+• Having Knowledge Of MySQL, MongoDB, Redis, and Oracle In The Database
+• Having A Strong Knowledge Of Tools Like VS Code (Version 1.74), Eclipse IDE (2022-12), JDK 19, SQLyog Community, PHP My Admin, Google Chrome Developer, MySQL Workbench, And XAMPP Servers.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img align="left" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/full-stack-developer-working-computer-it-professional-programmer-coding-website-creation-proccess-computer-technology_277904-5495.jpg?w=2000">
 
@@ -12,7 +22,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MDSAQUIBMDAFZAL](https://github.com/MDSAQUIBMDAFZAL)
 
-- 💬 Ask me about **𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐃𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫 || 𝐉𝐀𝐕𝐀 || 𝐌𝐘 𝐒𝐐𝐋 || 𝐇𝐓𝐌𝐋 || 𝐂𝐒𝐒 ||𝐌𝐨𝐧𝐠𝐨 𝐃𝐁||𝐎𝐑𝐀𝐂𝐋𝐄||𝐁𝐨𝐨𝐭𝐬𝐭𝐫𝐚𝐩||𝐂||𝐃𝐚𝐭𝐚 𝐒𝐭𝐫𝐮𝐜𝐭𝐮𝐫𝐞&𝐀𝐥𝐠𝐨𝐫𝐢𝐭𝐡𝐦𝐬||𝐃𝐚𝐭𝐚 𝐄𝐧𝐠𝐢𝐧𝐞𝐞𝐫**
+- 💬 Ask me about **Full - Stack Developer || Java || MySQL || MongoDB || Redis || HTML || CSS || JavaScript || BootStrap || XML || JSON || jQuery || React JS || Node JS || Servlet || Tomcat || Spring Boot || Data Structure & Algorithm || Data Engineer || MS-CIT || Auto CAD || Tally Erp**
 
 - 📫 How to reach me **ansarisaquib9225@gmail.com**
 
