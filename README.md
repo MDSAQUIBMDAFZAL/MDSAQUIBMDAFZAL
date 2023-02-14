@@ -1,15 +1,15 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm MD SAQUIB MD AFZAL</h1>
-<h3 align="center">A passionate Full Stack Developer from India Being An Honest, Quick Learner Person And Very Passionate About My Work. Recently Graduated With A Bachelor Of Engineering (BE) With The Stream Of Computer Science Engineering (CSE) In 2022, Working As On The Full Stack Development (FSD) Projects. 
+<h3 align="center">A passionate Full Stack Developer from India Being An Honest, Quick Learner Person And Very Passionate About My Work. Recently Graduated With A Bachelor Of Engineering (BE) With The Stream Of Computer Science Engineering (CSE) In 2022, Working As On The Full Stack Development (FSD) Projects. <br>
 
 Seeking a role that will allow me to continue learning and perfecting my skills in order to be a part of a progressive organization that will allow me to apply my knowledge and skills and be a part of an A-Team that will dynamically work towards the organization's growth. Passionate about developing websites and creating projects When exposed to unfamiliar technical patterns, systems, or languages, one quickly gains proficiency, finding satisfaction in writing clean code, testing code, and maintaining quality code.
 
  ⇒ Additional Skills
 
-• Having A Strong Knowledge Of HTML, CSS, JavaScript, Bootstrap, jQuery, JSON, and XML in The Frontend
-• Professional Proficiency In Communication And Project Presentation.
-• Having Knowledge Of Java, Data structure And Algorithms, Spring Boot React JS, and Node.js In The Backend
-• Having Knowledge Of MySQL, MongoDB, Redis, and Oracle In The Database
+• Having A Strong Knowledge Of HTML, CSS, JavaScript, Bootstrap, jQuery, JSON, and XML in The Frontend <br>
+• Professional Proficiency In Communication And Project Presentation. <br>
+• Having Knowledge Of Java, Data structure And Algorithms, Spring Boot React JS, and Node.js In The Backend <br>
+• Having Knowledge Of MySQL, MongoDB, Redis, and Oracle In The Database <br>
 • Having A Strong Knowledge Of Tools Like VS Code (Version 1.74), Eclipse IDE (2022-12), JDK 19, SQLyog Community, PHP My Admin, Google Chrome Developer, MySQL Workbench, And XAMPP Servers.</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img align="left" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/full-stack-developer-working-computer-it-professional-programmer-coding-website-creation-proccess-computer-technology_277904-5495.jpg?w=2000">
@@ -28,7 +28,7 @@ Seeking a role that will allow me to continue learning and perfecting my skills 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-saquib9225574779/(https://www.linkedin.com/in/mohammad-saquib9225574779/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-saquib9225574779/" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/mohammad-saquib9225574779/(https://www.linkedin.com/in/mohammad-saquib9225574779/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-saquib9225574779/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
