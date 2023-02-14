@@ -1,6 +1,6 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm MD SAQUIB MD AFZAL</h1>
-<h3 align="center">A passionate Full Stack Developer from India Being An Honest, Quick Learner Person And Very Passionate About My Work. Recently Graduated With A Bachelor Of Engineering (BE) With The Stream Of Computer Science Engineering (CSE) In 2022, Working As On The Full Stack Development (FSD) Projects. <br>
+<h3 align="center">A passionate Full Stack Developer from India Being An Honest, Quick Learner Person And Very Passionate About My Work. Recently Graduated With A Bachelor Of Engineering (BE) With The Stream Of Computer Science Engineering (CSE) In 2022, Working As On The Full Stack Development (FSD) Projects. <br><br>
 
 Seeking a role that will allow me to continue learning and perfecting my skills in order to be a part of a progressive organization that will allow me to apply my knowledge and skills and be a part of an A-Team that will dynamically work towards the organization's growth. Passionate about developing websites and creating projects When exposed to unfamiliar technical patterns, systems, or languages, one quickly gains proficiency, finding satisfaction in writing clean code, testing code, and maintaining quality code.
 
@@ -24,7 +24,8 @@ Seeking a role that will allow me to continue learning and perfecting my skills 
 
 - 💬 Ask me about **Full - Stack Developer || Java || MySQL || MongoDB || Redis || HTML || CSS || JavaScript || BootStrap || XML || JSON || jQuery || React JS || Node JS || Servlet || Tomcat || Spring Boot || Data Structure & Algorithm || Data Engineer || MS-CIT || Auto CAD || Tally Erp**
 
-- 📫 How to reach me **ansarisaquib9225@gmail.com**
+- 📫 How to reach me **ansarisaquib9225@gmail.com** OR <br>
+- 📫 How to reach me **9225574779**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
