@@ -1,16 +1,18 @@
 [![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
 <h1 align="center">Hi 👋, I'm MD SAQUIB MD AFZAL</h1>
-<h3 align="center">A passionate Full Stack Developer from India Being An Honest, Quick Learner Person And Very Passionate About My Work. Recently Graduated With A Bachelor Of Engineering (BE) With The Stream Of Computer Science Engineering (CSE) In 2022, Working As On The Full Stack Development (FSD) Projects. <br><br>
+<h3 align="center">🚀 Passionate about building intuitive and dynamic web applications, I have 2+ years of experience shaping digital experiences as a Full Stack Developer. My expertise in both front-end and back-end technologies allows me to create seamless interactions and robust solutions.
 
-Seeking a role that will allow me to continue learning and perfecting my skills in order to be a part of a progressive organization that will allow me to apply my knowledge and skills and be a part of an A-Team that will dynamically work towards the organization's growth. Passionate about developing websites and creating projects When exposed to unfamiliar technical patterns, systems, or languages, one quickly gains proficiency, finding satisfaction in writing clean code, testing code, and maintaining quality code.
+👨‍💻 As a Front-end Developer, I'm proficient in HTML, CSS, React JS, and the React Bootstrap framework. I enjoy turning complex problems into simple, beautiful, and intuitive designs. My proficiency with tools like Figma ensures a cohesive design approach that is user-centric and visually appealing.
 
- ⇒ Additional Skills
+💼 On the back-end, I bring in-depth knowledge of SQL and Postgresql, ensuring data integrity and performance. My experience with product-based and fintech companies has equipped me with a strong understanding of delivering high-quality, scalable software solutions.
 
-• Having A Strong Knowledge Of HTML, CSS, JavaScript, Bootstrap, jQuery, JSON, and XML in The Frontend <br>
-• Professional Proficiency In Communication And Project Presentation. <br>
-• Having Knowledge Of Java, Data structure And Algorithms, Spring Boot React JS, and Node.js In The Backend <br>
-• Having Knowledge Of MySQL, MongoDB, Redis, and Oracle In The Database <br>
-• Having A Strong Knowledge Of Tools Like VS Code (Version 1.74), Eclipse IDE (2022-12), JDK 19, SQLyog Community, PHP My Admin, Google Chrome Developer, MySQL Workbench, And XAMPP Servers.</h3>
+🎨 My tech stack includes VS Code, MS Office, Jira, Git, GitHub, Redux, and Redux Toolkit. I also hold a foundational understanding of Machine Learning and AWS, allowing me to interface with these technologies when necessary.
+
+🔍 I'm always eager to learn and embrace new challenges. My goal is to continually refine and expand my skills to stay ahead in the ever-evolving tech landscape.
+
+🔗 I’m passionate about staying updated with the latest industry trends and technologies. If you're looking to innovate and create impactful digital solutions.
+
+👉 Let’s connect to discuss ideas, collaborations, or explore opportunities together! Feel free to check out my projects and get in touch!</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img align="left" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/full-stack-developer-working-computer-it-professional-programmer-coding-website-creation-proccess-computer-technology_277904-5495.jpg?w=2000">
 
