@@ -4,7 +4,7 @@
 
 👨‍💻 As a Front-end Developer, I'm proficient in HTML, CSS, React JS, and the React Bootstrap framework. I enjoy turning complex problems into simple, beautiful, and intuitive designs. My proficiency with tools like Figma ensures a cohesive design approach that is user-centric and visually appealing.
 
-💼 On the back-end, I bring in-depth knowledge of SQL and Postgresql, ensuring data integrity and performance. My experience with product-based and fintech companies has equipped me with a strong understanding of delivering high-quality, scalable software solutions.
+💼 On the back end, I bring in-depth knowledge of SQL and Postgresql, ensuring data integrity and performance. My experience with product-based and fintech companies has equipped me with a strong understanding of delivering high-quality, scalable software solutions.
 
 🎨 My tech stack includes VS Code, MS Office, Jira, Git, GitHub, Redux, and Redux Toolkit. I also hold a foundational understanding of Machine Learning and AWS, allowing me to interface with these technologies when necessary.
 
@@ -12,7 +12,7 @@
 
 🔗 I’m passionate about staying updated with the latest industry trends and technologies. If you're looking to innovate and create impactful digital solutions.
 
-👉 Let’s connect to discuss ideas, collaborations, or explore opportunities together! Feel free to check out my projects and get in touch!</h3>
+👉 Let’s connect to discuss ideas, collaborate, or explore opportunities! Feel free to check out my projects and get in touch!</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img align="left" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/full-stack-developer-working-computer-it-professional-programmer-coding-website-creation-proccess-computer-technology_277904-5495.jpg?w=2000">
 
@@ -24,14 +24,14 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MDSAQUIBMDAFZAL](https://github.com/MDSAQUIBMDAFZAL)
 
-- 💬 Ask me about **Full - Stack Developer || Java || MySQL || MongoDB || Redis || HTML || CSS || JavaScript || BootStrap || XML || JSON || jQuery || React JS || Node JS || Servlet || Tomcat || Spring Boot || Data Structure & Algorithm || Data Engineer || MS-CIT || Auto CAD || Tally Erp**
+- 💬 Ask me about **Full Stack Developer 2+ Yrs Experience | Proficient in Front-end Developer, React JS Developer | Expertise in UI Development, HTML5, CSS3, VS Code, MS Office, React Bootstrap | Skilled in Figma, Jira, Git, GitHub, Redux, Redux Toolkit, SQL, PostgreSQL**
 
 - 📫 How to reach me **ansarisaquib9225@gmail.com** OR <br>
-- 📫 How to reach me **9225574779**
+- 📫 How to reach me **+91 9225574779**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="[https://linkedin.com/in/https://www.linkedin.com/in/mohammad-saquib9225574779/](https://www.linkedin.com/in/mohammad-saquib9225574779/)" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-saquib9225574779/" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/mohammad-saquib9225574779/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/mohammad-saquib9225574779/" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
