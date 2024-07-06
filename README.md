@@ -15,7 +15,7 @@
 👉 Let’s connect to discuss ideas, collaborate, or explore opportunities! Feel free to check out my projects and get in touch!</h3>
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 <img align="left" alt="Coding" width="400" src="https://img.freepik.com/premium-vector/full-stack-developer-working-computer-it-professional-programmer-coding-website-creation-proccess-computer-technology_277904-5495.jpg?w=2000">
-<img align="center" alt="Coding" width="400" src="[https://img.freepik.com/premium-vector/full-stack-developer-working-computer-it-professional-programmer-coding-website-creation-proccess-computer-technology_277904-5495.jpg?](https://media.licdn.com/dms/image/D5616AQH3IbJUn-DX1g/profile-displaybackgroundimage-shrink_350_1400/0/1718204526963?e=1725494400&v=beta&t=4vhdwYz5rbpe6mAEIDGvLj_hJpPYetY3cdKG4hZEuAk)w=2000">
+<img align="center" alt="Coding" width="400" src="https://media.licdn.com/dms/image/D5616AQH3IbJUn-DX1g/profile-displaybackgroundimage-shrink_350_1400/0/1718204526963?e=1725494400&v=beta&t=4vhdwYz5rbpe6mAEIDGvLj_hJpPYetY3cdKG4hZEuAk">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mdsaquibmdafzal&label=Profile%20views&color=0e75b6&style=flat" alt="mdsaquibmdafzal" /> </p>
 
