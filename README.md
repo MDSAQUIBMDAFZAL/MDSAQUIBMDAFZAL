@@ -71,8 +71,8 @@
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> 
   </a> 
-  <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Microsoft_Office_365_logo.png" alt="msoffice" width="40" height="40"/> 
+   <a href="https://www.microsoft.com/en-us/microsoft-365" target="_blank" rel="noreferrer"> 
+    <img src="https://logos-world.net/wp-content/uploads/2020/11/Microsoft-Office-Emblem.png" alt="msoffice" width="40" height="40"/> 
   </a> 
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> 
