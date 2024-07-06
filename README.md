@@ -1,7 +1,5 @@
-[![MasterHead](https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif)]
-<p align="center">
-  <img src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
-</p>
+[![MasterHead]]
+  <img align="center" alt="full-stack-development gif" width="100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <h1 align="center">Hi 👋, I'm Mohammad Saquib</h1>
 <h3 align="center">🚀 Passionate about building intuitive and dynamic web applications, I have 2+ years of experience shaping digital experiences as a Full Stack Developer. My expertise in both front-end and back-end technologies allows me to create seamless interactions and robust solutions.
