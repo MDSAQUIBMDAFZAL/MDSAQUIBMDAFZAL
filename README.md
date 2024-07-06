@@ -1,7 +1,7 @@
   <img align="center" alt="full-stack-development gif" width="100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <h1 align="center">Hi 👋, I'm Mohammad Saquib</h1>
-<h3 align="center">🚀 Passionate about building intuitive and dynamic web applications, I have 2+ years of experience shaping digital experiences as a Full Stack Developer. My expertise in both front-end and back-end technologies allows me to create seamless interactions and robust solutions.
+<h3 align="center">🚀 Passionate about building intuitive and dynamic web applications, I have 2+ years of experience shaping digital experiences as a Software Developer. My expertise in both front-end and back-end technologies allows me to create seamless interactions and robust solutions.
 
 👨‍💻 As a Front-end Developer, I'm proficient in HTML, CSS, React JS, and the React Bootstrap framework. I enjoy turning complex problems into simple, beautiful, and intuitive designs. My proficiency with tools like Figma ensures a cohesive design approach that is user-centric and visually appealing.
 
