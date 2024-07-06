@@ -1,19 +1,21 @@
   <img align="center" alt="full-stack-development gif" width="100%" src="https://www.wingstechsolutions.com/wp-content/uploads/2022/03/full-stack-development.gif">
 
 <h1 align="center">Hi 👋, I'm Mohammad Saquib</h1>
-<h3 align="center">🚀 Passionate about building intuitive and dynamic web applications, I have 2+ years of experience shaping digital experiences as a Software Developer. My expertise in both front-end and back-end technologies allows me to create seamless interactions and robust solutions.
-
-👨‍💻 As a Front-end Developer, I'm proficient in HTML, CSS, React JS, and the React Bootstrap framework. I enjoy turning complex problems into simple, beautiful, and intuitive designs. My proficiency with tools like Figma ensures a cohesive design approach that is user-centric and visually appealing.
-
-💼 On the back end, I bring in-depth knowledge of SQL and Postgresql, ensuring data integrity and performance. My experience with product-based and fintech companies has equipped me with a strong understanding of delivering high-quality, scalable software solutions.
-
-🎨 My tech stack includes VS Code, MS Office, Jira, Git, GitHub, Redux, and Redux Toolkit. I also hold a foundational understanding of Machine Learning and AWS, allowing me to interface with these technologies when necessary.
-
-🔍 I'm always eager to learn and embrace new challenges. My goal is to continually refine and expand my skills to stay ahead in the ever-evolving tech landscape.
-
-🔗 I’m passionate about staying updated with the latest industry trends and technologies. If you're looking to innovate and create impactful digital solutions.
-
-👉 Let’s connect to discuss ideas, collaborate, or explore opportunities! Feel free to check out my projects and get in touch!</h3>
+<h3 align="center">
+    <ul>
+        <li>🚀 Passionate about building intuitive and dynamic web applications, I have 2+ years of experience shaping digital experiences as a Software Developer.</li>
+        <li>My expertise in both front-end and back-end technologies allows me to create seamless interactions and robust solutions.</li>
+        <li>👨‍💻 As a Front-end Developer, I'm proficient in HTML, CSS, React JS, and the React Bootstrap framework. I enjoy turning complex problems into simple, beautiful, and intuitive designs.</li>
+        <li>My proficiency with tools like Figma ensures a cohesive design approach that is user-centric and visually appealing.</li>
+        <li>💼 On the back end, I bring in-depth knowledge of SQL and Postgresql, ensuring data integrity and performance.</li>
+        <li>My experience with product-based and fintech companies has equipped me with a strong understanding of delivering high-quality, scalable software solutions.</li>
+        <li>🎨 My tech stack includes VS Code, MS Office, Jira, Git, GitHub, Redux, and Redux Toolkit.</li>
+        <li>I also hold a foundational understanding of Machine Learning and AWS, allowing me to interface with these technologies when necessary.</li>
+        <li>🔍 I'm always eager to learn and embrace new challenges. My goal is to continually refine and expand my skills to stay ahead in the ever-evolving tech landscape.</li>
+        <li>🔗 I’m passionate about staying updated with the latest industry trends and technologies. If you're looking to innovate and create impactful digital solutions.</li>
+        <li>👉 Let’s connect to discuss ideas, collaborate, or explore opportunities! Feel free to check out my projects and get in touch!</li>
+    </ul>
+</h3>
 
 <img align="center" alt="Coding" width="100%" src="https://media.licdn.com/dms/image/D5616AQH3IbJUn-DX1g/profile-displaybackgroundimage-shrink_350_1400/0/1718204526963?e=1725494400&v=beta&t=4vhdwYz5rbpe6mAEIDGvLj_hJpPYetY3cdKG4hZEuAk">
 <img align="right" alt="Coding" width="400" src="https://media0.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
