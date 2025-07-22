@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Mohammad Saquib</h1>
 <h3 align="center">
     <ul>
-        <li>🚀 Passionate about building intuitive and dynamic web applications, I have 2+ years of experience shaping digital experiences as a Software Developer.</li>
+        <li>🚀 Passionate about building intuitive and dynamic web applications, I have 4+ years of experience shaping digital experiences as a Software Developer.</li>
         <li>My expertise in both front-end and back-end technologies allows me to create seamless interactions and robust solutions.</li>
         <li>👨‍💻 As a Front-end Developer, I'm proficient in HTML, CSS, React JS, and the React Bootstrap framework. I enjoy turning complex problems into simple, beautiful, and intuitive designs.</li>
         <li>My proficiency with tools like Figma ensures a cohesive design approach that is user-centric and visually appealing.</li>
